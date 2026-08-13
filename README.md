@@ -23,3 +23,11 @@ Past presentations
    - The Byzantine Generals Problem
    - Peers that can send fake addresses
    - Types of nodes (full, pruned, light)
+- 12 Aug 2026: Alby Hub and the Lightning Network
+   - Main differences from Bitcoin and Lightning
+   - People's sentiment towards having their own Lightning node
+   - Advantages of Lightning
+   - Why is Lightning not widely adopted?
+   - Alby Hub: on top of your Lightning Node
+   - Nostr in a nutshell
+   - HTLCs in a nutshell
