@@ -2,7 +2,7 @@
 
 I hold a monthly presentation about the interesting parts of Bitcoin at Code Orange.
 
-It's on Discord, so anyone can join.
+It's on Discord, so anyone can join: https://codeorange.dev/
 
 
 Past presentations
