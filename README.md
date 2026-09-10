@@ -31,3 +31,12 @@ Past presentations
    - Alby Hub: on top of your Lightning Node
    - Nostr in a nutshell
    - HTLCs in a nutshell
+- 9 Sep 2026: RoboSats
+   - Why would someone need non-KYC exchanges?
+   - How RoboSats addresses those needs for selling/buying bitcoin
+   - Understanding concepts such as premium, bond, maker, taker etc.
+   - A live demo
+   - Caveats (Tor, revealing lightning nodes through invoices, scammers)
+   - Alternatives: Hodl Hodl, Mostro etc.
+   - Mental model: trade-offs, trade-offs, trade-offs
+
